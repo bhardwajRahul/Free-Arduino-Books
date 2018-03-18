@@ -22,6 +22,8 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Arduino Robotic Projects [[Download]](/book/Arduino%20Robotic%20Projects.pdf)
 * Building a Home Security System with Arduino [[Download]](/book/Building%20a%20Home%20Security%20System%20with%20Arduino.pdf)
 * Building a Quadcopter with Arduino [[Download]](/book/Building%20a%20Quadcopter%20with%20Arduino.pdf)
+* Hacking Electronics - Learning Electronics with Arduino and Raspberry Pi - Second Edition [[Download]](/book/Hacking%20Electronics%20-%20Learning%20Electronics%20with%20Arduino%20and%20Raspberry%20Pi%20-%20Second%20Edition.pdf)
+* Internet of Things with Arduino Cookbook [[Download]](/book/Internet%20of%20Things%20with%20Arduino%20Cookbook.pdf)
 * Internet of Things with the Arduino Yún [[Download]](/book/Internet%20of%20Things%20with%20the%20Arduino%20Y%C3%BAn.pdf)
 * IoT - Building Arduino-Based Projects [[Download]](/book/IoT%20-%20Building%20Arduino-Based%20Projects.pdf)
 * Programming Your Home - Automate with Arduino, Android, and Your Computer [[Download]](/book/Programming%20Your%20Home%20-%20Automate%20with%20Arduino%2C%20Android%2C%20and%20Your%20Computer.pdf)
